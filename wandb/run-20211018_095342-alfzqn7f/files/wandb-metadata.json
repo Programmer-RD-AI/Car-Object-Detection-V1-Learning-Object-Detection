@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.11.0-37-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.11",
+    "heartbeatAt": "2021-10-18T04:23:44.915491",
+    "startedAt": "2021-10-18T04:23:42.771047",
+    "docker": null,
+    "gpu": "GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-2a448395-7350-4310-830b-9ec2aef4e7d6.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/Object-Detection",
+    "git": {
+        "remote": "https://github.com/Programmer-RD-AI/Car-Object-Detection-V1-learning-object-detection-detectron2.git",
+        "commit": "70a84473f9cfeb0819cc84efa72dd2354253cf33"
+    },
+    "email": "aigithub@gmail.com",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}

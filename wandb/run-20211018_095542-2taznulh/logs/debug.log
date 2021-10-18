@@ -1,0 +1,236 @@
+2021-10-18 09:55:42,193 INFO    MainThread:147246 [wandb_setup.py:_flush():69] setting env: {}
+2021-10-18 09:55:42,193 INFO    MainThread:147246 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-10-18 09:55:42,193 INFO    MainThread:147246 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/Object-Detection/Car-Object-Detection-V1-Learning-Object-Detection/wandb/run-20211018_095542-2taznulh/logs/debug.log
+2021-10-18 09:55:42,193 INFO    MainThread:147246 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/Object-Detection/Car-Object-Detection-V1-Learning-Object-Detection/wandb/run-20211018_095542-2taznulh/logs/debug-internal.log
+2021-10-18 09:55:42,194 INFO    MainThread:147246 [wandb_init.py:init():375] calling init triggers
+2021-10-18 09:55:42,194 INFO    MainThread:147246 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-10-18 09:55:42,194 INFO    MainThread:147246 [wandb_init.py:init():397] re-initializing run, found existing run on stack: 2cey3iw7
+2021-10-18 09:55:42,195 INFO    MainThread:147246 [wandb_run.py:finish():1271] finishing run ranuga-d/Car-Object-Detection-V1-Learning-Object-Detection/2cey3iw7
+2021-10-18 09:55:42,202 INFO    MainThread:147246 [jupyter.py:save_history():382] saving 24 cells to _session_history.ipynb
+2021-10-18 09:55:42,209 INFO    MainThread:147246 [wandb_run.py:_config_callback():843] config_cb ('_wandb', 'session_history') code/_session_history.ipynb None
+2021-10-18 09:55:42,226 INFO    MainThread:147246 [jupyter.py:save_ipynb():301] looking for notebook: 00.ipynb
+2021-10-18 09:55:42,855 INFO    MainThread:147246 [wandb_init.py:_jupyter_teardown():274] saved code and history
+2021-10-18 09:55:42,855 INFO    MainThread:147246 [wandb_init.py:_jupyter_teardown():275] cleaning up jupyter logic
+2021-10-18 09:55:42,855 INFO    MainThread:147246 [wandb_run.py:_atexit_cleanup():1571] got exitcode: 0
+2021-10-18 09:55:42,855 INFO    MainThread:147246 [wandb_run.py:_restore():1543] restore
+2021-10-18 09:55:48,406 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: None
+2021-10-18 09:55:48,559 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 2
+  artifact_count: 3
+}
+pusher_stats {
+  uploaded_bytes: 322290
+  total_bytes: 322290
+}
+
+2021-10-18 09:55:49,080 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 2
+  artifact_count: 3
+}
+pusher_stats {
+  uploaded_bytes: 322290
+  total_bytes: 322290
+}
+
+2021-10-18 09:55:49,904 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 322290
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,007 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 322290
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,108 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 322290
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,210 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 322290
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,312 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 322290
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,419 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 322290
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,521 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 322317
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,623 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 345777
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,726 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 352005
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,829 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 352005
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:50,930 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 352005
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:51,032 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 352005
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:51,134 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 352005
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:51,236 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 352005
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:51,338 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 352005
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:51,998 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 352005
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:52,099 INFO    MainThread:147246 [wandb_run.py:_wait_for_finish():1693] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 7
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 352005
+  total_bytes: 352005
+}
+
+2021-10-18 09:55:53,218 INFO    MainThread:147246 [wandb_run.py:_show_files():1915] logging synced files
+2021-10-18 09:55:53,223 INFO    MainThread:147246 [wandb_init.py:init():424] starting backend
+2021-10-18 09:55:53,223 INFO    MainThread:147246 [backend.py:_multiprocessing_setup():72] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2021-10-18 09:55:53,226 INFO    MainThread:147246 [backend.py:ensure_launched():135] starting backend process...
+2021-10-18 09:55:53,272 INFO    MainThread:147246 [backend.py:ensure_launched():140] started backend process with pid: 149432
+2021-10-18 09:55:53,273 INFO    MainThread:147246 [wandb_init.py:init():429] backend started and connected
+2021-10-18 09:55:53,285 INFO    MainThread:147246 [wandb_run.py:_label_probe_notebook():815] probe notebook
+2021-10-18 09:55:53,286 INFO    MainThread:147246 [wandb_init.py:init():477] updated telemetry
+2021-10-18 09:55:53,286 INFO    MainThread:147246 [wandb_init.py:init():500] communicating current version
+2021-10-18 09:55:54,133 INFO    MainThread:147246 [wandb_init.py:init():505] got version response upgrade_message: "wandb version 0.12.4 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2021-10-18 09:55:54,134 INFO    MainThread:147246 [wandb_init.py:init():513] communicating run to backend with 30 second timeout
+2021-10-18 09:55:54,672 INFO    MainThread:147246 [wandb_init.py:init():540] starting run threads in backend
+2021-10-18 09:55:59,677 INFO    MainThread:147246 [wandb_run.py:_console_start():1601] atexit reg
+2021-10-18 09:55:59,678 INFO    MainThread:147246 [wandb_run.py:_redirect():1475] redirect: SettingsConsole.WRAP
+2021-10-18 09:55:59,678 INFO    MainThread:147246 [wandb_run.py:_redirect():1512] Wrapping output streams.
+2021-10-18 09:55:59,679 INFO    MainThread:147246 [wandb_run.py:_redirect():1536] Redirects installed.
+2021-10-18 09:55:59,679 INFO    MainThread:147246 [wandb_init.py:init():565] run started, returning control to user process
+2021-10-18 09:56:09,931 INFO    MainThread:147246 [wandb_setup.py:_flush():69] setting env: {}
+2021-10-18 09:56:09,931 INFO    MainThread:147246 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-10-18 09:56:09,931 INFO    MainThread:147246 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/Object-Detection/Car-Object-Detection-V1-Learning-Object-Detection/wandb/run-20211018_095609-ev2yqx9t/logs/debug.log
+2021-10-18 09:56:09,931 INFO    MainThread:147246 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/Object-Detection/Car-Object-Detection-V1-Learning-Object-Detection/wandb/run-20211018_095609-ev2yqx9t/logs/debug-internal.log
+2021-10-18 09:56:09,931 INFO    MainThread:147246 [wandb_init.py:_jupyter_setup():294] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f3c7bf4a690>
+2021-10-18 09:56:09,932 INFO    MainThread:147246 [wandb_init.py:init():375] calling init triggers
+2021-10-18 09:56:09,932 INFO    MainThread:147246 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-10-18 09:56:09,932 INFO    MainThread:147246 [wandb_init.py:init():397] re-initializing run, found existing run on stack: 2taznulh
+2021-10-18 09:56:09,933 INFO    MainThread:147246 [wandb_run.py:finish():1271] finishing run ranuga-d/Car-Object-Detection-V1-Learning-Object-Detection/2taznulh
